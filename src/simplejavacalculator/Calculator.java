@@ -79,7 +79,7 @@ public class Calculator {
         num2 = 0.0;
         num1 = 0.0;
         mode = BiOperatorModes.normal;
-
+        System.outprintln("Reset successful");
         return NaN;
     }
 
